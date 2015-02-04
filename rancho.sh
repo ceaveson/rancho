@@ -1,4 +1,4 @@
-#! /bin/usr/python
+#! /usr/bin/python
 
 from sys import argv
 from random import choice
